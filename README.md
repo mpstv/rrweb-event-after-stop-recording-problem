@@ -1,6 +1,6 @@
 # RrwebEventAfterStopRecordingProblem
 
-This repository was generated to demonstrate https://github.com/rrweb-io/rrweb/issues/228.
+This repository was generated to demonstrate https://github.com/rrweb-io/rrweb/issues/227.
 
 For run application clone this repository and run:
 
